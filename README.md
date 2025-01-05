@@ -99,12 +99,12 @@ This project is licensed under the [MIT License](./LICENSE).
 
 Discover the future of other AIs with 
   - [Gemini AI 1.5 Flash-8B | Davidayo](https://www.davidayo.com/artificial-intelligence/gemini-1-5-flash-8b/).
-  - [LearnLM 1.5 Pro Experimental | AI Models - Davidayo](https://www.davidayo.com/artificial-intelligence/learnlm-1-5-pro-experimental/)
-  - [Introduction of Gemini 1.5 Pro, Google's next-generation AI model - Davidayo AI](https://www.davidayo.com/artificial-intelligence/gemini-1-5-pro/)
-  - [Gemini 1.5 Flash: Google’s Next-Gen AI Model | Davidayo](https://www.davidayo.com/artificial-intelligence/gemini-1-5-flash/)
-  - [Gemini 2.0 Flash (experimental) | Davidayo AI](https://www.davidayo.com/artificial-intelligence/gemini-2-0-flash-exp/)
-  - [Gemini 2.0 Flash Thinking: Solve Problems Faster - Davidayo](https://www.davidayo.com/artificial-intelligence/gemini-2-0-flash-thinking-exp-1219/)
-  - [Google's Gemini-Exp-1206 - Davidayo AI](https://www.davidayo.com/artificial-intelligence/gemini-exp-1206/)
+  - [LearnLM 1.5 Pro Experimental | AI Models - Davidayo](https://www.davidayo.com/artificial-intelligence/learnlm-1-5-pro-experimental/).
+  - [Introduction of Gemini 1.5 Pro, Google's next-generation AI model - Davidayo AI](https://www.davidayo.com/artificial-intelligence/gemini-1-5-pro/).
+  - [Gemini 1.5 Flash: Google’s Next-Gen AI Model | Davidayo](https://www.davidayo.com/artificial-intelligence/gemini-1-5-flash/).
+  - [Gemini 2.0 Flash (experimental) | Davidayo AI](https://www.davidayo.com/artificial-intelligence/gemini-2-0-flash-exp/).
+  - [Gemini 2.0 Flash Thinking: Solve Problems Faster - Davidayo](https://www.davidayo.com/artificial-intelligence/gemini-2-0-flash-thinking-exp-1219/).
+  - [Google's Gemini-Exp-1206 - Davidayo AI](https://www.davidayo.com/artificial-intelligence/gemini-exp-1206/).
 
 
 
